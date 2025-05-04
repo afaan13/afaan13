@@ -1,4 +1,4 @@
-# Hi, I'm [Zubair] 👋:slightly_smiling_face:
+# Hi, I'm [Zubair] 👋 slightly_smiling_face
 
 I'm a Computer Science student passionate about building innovative Android and web applications. I specialize in Android development with Kotlin, Java, and Jetpack Compose, as well as web development with HTML, CSS, and JavaScript. I also enjoy exploring Android app modding and reverse engineering.
 
