@@ -1,21 +1,67 @@
-# Hi, I'm [Zubair] 👋 slightly_smiling_face
+<div align="center">
+  <h1>👾 Zubair Tantray - Android Dev & Code Explorer 👾</h1>
+  <img src="https://img.shields.io/badge/Android-Developer-34C759?style=flat&logo=android" />
+  <img src="https://img.shields.io/badge/Web-Developer-007ACC?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/Reverse-Engineer-FF4500?style=flat&logo=git" />
+</div>
 
-I'm a Computer Science student passionate about building innovative Android and web applications. I specialize in Android development with Kotlin, Java, and Jetpack Compose, as well as web development with HTML, CSS, and JavaScript. I also enjoy exploring Android app modding and reverse engineering.
+---
 
-## 🔧 Skills
-- **Languages**: Kotlin, Java, JavaScript, HTML, CSS
-- **Frameworks & Tools**: Jetpack Compose, Git, Android Studio
-- **Interests**: Android Development, Web Development, Reverse Engineering
+### 🚀 About Me
+Hey, I'm **Zubair**, a Computer Science student with a passion for crafting cutting-edge **Android** and **web applications**. I thrive on building sleek, user-friendly apps using **Kotlin**, **Java**, and **Jetpack Compose**, while also diving into web development with **HTML**, **CSS**, and **JavaScript**. My curiosity drives me to explore **Android app modding** and **reverse engineering**, unraveling the inner workings of apps like a digital detective.
 
-## 🌟 Featured Projects
-- **[My Portfolio](https://lovely-heliotrope-380671.netlify.app/)**: A [ "Just a Simple Personal Portfolio Website."].
-- **[Android App]("")**: A [brief description, e.g., "Currently Working on android app based on Kotlin and python"].
+> "Code is poetry, and I’m here to write epics."
 
-## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/zubair-tantray-ba99802b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- Email: [zubairdin229@gmail.com]
+---
 
-## ⚡ Fun Fact
-I love experimenting with Android app modding to understand how apps work under the hood!
+### 🛠️ Tech Stack
+| Category          | Tools & Technologies                              |
+|-------------------|--------------------------------------------------|
+| **Languages**     | `Kotlin` `Java` `JavaScript` `HTML` `CSS`        |
+| **Frameworks**    | `Jetpack Compose` `Node.js` (exploring)          |
+| **Tools**         | `Android Studio` `Git` `VS Code` `Figma`         |
+| **Interests**     | Android Development, Web Development, Reverse Engineering |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
+
+### 🌟 Featured Projects
+- **[My Portfolio](https://lovely-heliotrope-380671.netlify.app/)**  
+  A sleek personal portfolio website showcasing my skills and projects, built with **HTML**, **CSS**, and **JavaScript**.  
+  ![Portfolio](https://img.shields.io/badge/Status-Live-brightgreen)
+
+- **[TaskMaster App](https://github.com/zubair-tantray/taskmaster)** *(In Progress)*  
+  A modern Android app for task management, powered by **Kotlin**, **Jetpack Compose**, and **Firebase** for real-time syncing.  
+  ![WIP](https://img.shields.io/badge/Status-WIP-yellow)
+
+- **[APK Explorer](https://github.com/zubair-tantray/apk-explorer)** *(Educational)*  
+  A tool for analyzing Android APK structures, built to learn **reverse engineering** concepts ethically.  
+  ![Educational](https://img.shields.io/badge/Status-Educational-blue)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubair-tantray&show_icons=true&theme=dracula" alt="Zubair's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubair-tantray&theme=dracula" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/zubair-tantray-ba99802b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
+  <a href="mailto:zubairdin229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" /></a>
+  <a href="https://lovely-heliotrope-380671.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=netlify" /></a>
+</div>
+
+---
+
+### ⚡️ Fun Fact
+I love diving into **Android app modding** to decode how apps tick, turning complex systems into elegant solutions. When I’m not coding, you’ll find me tweaking apps or chasing the next big idea.
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hack-the-Planet-000000?style=flat&logo=git" />
+  <p>Built with 💻 and ☕</p>
+</div>
