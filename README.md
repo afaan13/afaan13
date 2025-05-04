@@ -39,14 +39,6 @@ Hey, I'm **Zubair**, a Computer Science student with a passion for crafting cutt
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubair-tantray&show_icons=true&theme=dracula" alt="Zubair's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubair-tantray&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📬 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/zubair-tantray-ba99802b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
@@ -63,5 +55,5 @@ I love diving into **Android app modding** to decode how apps tick, turning comp
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hack-the-Planet-000000?style=flat&logo=git" />
-  <p>Built with 💻 and ☕</p>
+  <p>Built with ❣️ and 💻 </p>
 </div>
