@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👾 Zubair Tantray - Android Dev & Code Explorer 👾</h1>
+  <h1>👾 Zubair - Android Dev & Code Explorer 👾</h1>
   <img src="https://img.shields.io/badge/Android-Developer-34C759?style=flat&logo=android" />
   <img src="https://img.shields.io/badge/Web-Developer-007ACC?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/Reverse-Engineer-FF4500?style=flat&logo=git" />
