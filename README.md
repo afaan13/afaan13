@@ -30,7 +30,7 @@ Hey, I'm **Zubair**, a Computer Science student with a passion for crafting cutt
   ![Portfolio](https://img.shields.io/badge/Status-Live-brightgreen)
 
 - **[Attendance-Tracker-App](https://github.com/afaan13/attendance-tracker-releases/releases/)**
-  A modern Android app for task management, powered by **Kotlin**, **Jetpack Compose**, and **Firebase** for real-time syncing.  
+  A modern Android app for **Attendance** and student management in schools, powered by **Kotlin**, **Jetpack Compose**, and **Firebase** for real-time syncing.  
   ![WIP](https://img.shields.io/badge/Status-WIP-yellow)
 
 - **[APK Explorer](https://github.com/zubair-tantray/apk-explorer)** *(Educational)*  
