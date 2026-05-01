@@ -29,7 +29,7 @@ Hey, I'm **Zubair**, a Computer Science student with a passion for crafting cutt
   A sleek personal portfolio website showcasing my skills and projects, built with **HTML**, **CSS**, and **JavaScript**.  
   ![Portfolio](https://img.shields.io/badge/Status-Live-brightgreen)
 
-- **[Attendance-Tracker-App]([https://github.com/zubair-tantray/taskmaster](https://github.com/afaan13/attendance-tracker-releases/releases/tag/1.0.0))** *(In Progress)*  
+- **[Attendance-Tracker-App](https://github.com/afaan13/attendance-tracker-releases/releases/)** **  
   A modern Android app for task management, powered by **Kotlin**, **Jetpack Compose**, and **Firebase** for real-time syncing.  
   ![WIP](https://img.shields.io/badge/Status-WIP-yellow)
 
