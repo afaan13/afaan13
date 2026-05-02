@@ -33,7 +33,7 @@ Hey, I'm **Zubair**, a Computer Science student with a passion for crafting cutt
   A modern Android app for **Attendance** and student management in schools, powered by **Kotlin**, **Jetpack Compose**, and **Firebase** for real-time syncing.  
   ![WIP](https://img.shields.io/badge/Status-WIP-yellow)
 
-- **[Wake-Force (AlarmClock)]([https://github.com/zubair-tantray/apk-explorer](https://github.com/afaan13/Force-Wake-clock-releases/releases/tag/1.0.0)** *(Educational)*  
+- **[Wake-Force (AlarmClock)](https://github.com/afaan13/Force-Wake-clock-releases/releases/)** *(Educational)*  
   A tool for students that helps them to wake-up early without getting late. it forces them to wakeup. 
   ![Educational](https://img.shields.io/badge/Status-Educational-blue)
 
