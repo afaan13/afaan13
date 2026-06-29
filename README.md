@@ -45,7 +45,7 @@ Mission-based alarm app that requires completing tasks (math problems, QR scanni
 
 ---
 
-#### 📱 [NotchX] *(PlayStore)*(https://play.google.com/store/apps/details?id=com.notchx.app&pcampaignid=web_share)
+#### 📱 [NotchX](https://play.google.com/store/apps/details?id=com.notchx.app&pcampaignid=web_share)
 Notch customization tool for Android devices. Currently on Google Playstore.
 
 ---
