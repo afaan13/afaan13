@@ -50,6 +50,14 @@ Notch customization tool for Android devices. Currently on Google Playstore.
 
 ---
 
+#### 🛡️ [VaultGuard](https://github.com/afaan13/Applock-Releases/)
+Offline-first Android app locker and privacy suite. Secures apps using clock-synced dynamic PINs and trusted Wi-Fi/GPS safe zones, featuring a unique **Doomscroll Guard** that curbs screen addiction with focus-restoring exercises.
+
+**Tech:** Kotlin, Jetpack Compose, Room (SQLCipher), Preferences DataStore, AccessibilityService, WindowManager overlay, Bouncy Castle (Argon2id)
+
+**Key Challenge:** Achieving sub-150ms overlay interception and sub-1ms configuration lookup via reactive in-memory cache, combined with active settings-ejection mechanisms to block unauthorized uninstallation.
+
+---
 ### Current Focus
 
 - Strengthening Kotlin fundamentals and Compose state management
